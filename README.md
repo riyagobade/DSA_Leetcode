@@ -43,5 +43,14 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
