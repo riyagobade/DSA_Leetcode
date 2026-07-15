@@ -11,3 +11,15 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 - Maintain consistency in coding practice
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+<!---LeetCode Topics End-->
