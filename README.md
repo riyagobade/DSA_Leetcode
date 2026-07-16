@@ -21,12 +21,14 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/riyagobade/DSA_Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/riyagobade/DSA_Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/riyagobade/DSA_Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -65,6 +67,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
