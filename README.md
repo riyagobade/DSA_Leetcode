@@ -23,11 +23,13 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2806-account-balance-after-rounded-purchase](https://github.com/riyagobade/DSA_Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/riyagobade/DSA_Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/riyagobade/DSA_Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## String
 |  |
 | ------- |
