@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0258-add-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0292-nim-game) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -139,4 +140,12 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
