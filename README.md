@@ -20,6 +20,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -53,6 +54,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
@@ -130,4 +132,8 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
