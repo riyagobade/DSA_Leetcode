@@ -19,6 +19,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -75,6 +77,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
@@ -122,4 +125,8 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
