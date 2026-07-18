@@ -28,6 +28,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0326-power-of-three](https://github.com/riyagobade/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/riyagobade/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/riyagobade/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -55,6 +56,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -69,6 +71,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
