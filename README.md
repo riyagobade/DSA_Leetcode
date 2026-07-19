@@ -17,6 +17,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
@@ -54,6 +55,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
@@ -77,6 +79,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
