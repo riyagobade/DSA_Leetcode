@@ -57,6 +57,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -158,4 +159,16 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
