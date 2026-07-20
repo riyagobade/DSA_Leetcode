@@ -32,6 +32,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -164,10 +165,12 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +187,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
