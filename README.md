@@ -42,6 +42,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -77,6 +78,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/riyagobade/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3697-compute-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -161,6 +164,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
