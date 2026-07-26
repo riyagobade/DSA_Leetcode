@@ -78,6 +78,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
 | [1768-merge-strings-alternately](https://github.com/riyagobade/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/riyagobade/DSA_Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
