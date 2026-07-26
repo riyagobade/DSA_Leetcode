@@ -69,6 +69,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0058-length-of-last-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0925-long-pressed-name](https://github.com/riyagobade/DSA_Leetcode/tree/master/0925-long-pressed-name) |
@@ -110,6 +111,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0925-long-pressed-name](https://github.com/riyagobade/DSA_Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/riyagobade/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
