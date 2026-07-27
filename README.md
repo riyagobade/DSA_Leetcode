@@ -113,6 +113,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -129,6 +130,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -148,6 +150,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
