@@ -133,6 +133,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0074-search-a-2d-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riyagobade/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -241,6 +242,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riyagobade/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 ## Memoization
