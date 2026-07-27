@@ -107,6 +107,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/riyagobade/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -136,6 +137,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riyagobade/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/riyagobade/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +158,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/riyagobade/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
