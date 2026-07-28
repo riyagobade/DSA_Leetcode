@@ -260,4 +260,8 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/riyagobade/DSA_Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
