@@ -265,4 +265,5 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0175-combine-two-tables](https://github.com/riyagobade/DSA_Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/riyagobade/DSA_Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
