@@ -69,6 +69,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0020-valid-parentheses](https://github.com/riyagobade/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
@@ -117,6 +118,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
