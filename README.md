@@ -47,6 +47,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3536-maximum-product-of-two-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3697-compute-decimal-representation) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/riyagobade/DSA_Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -104,6 +105,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0867-transpose-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
