@@ -116,6 +116,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
@@ -243,6 +245,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyagobade/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -255,6 +258,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
