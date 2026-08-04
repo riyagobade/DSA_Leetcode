@@ -88,6 +88,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/riyagobade/DSA_Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
@@ -124,6 +125,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/riyagobade/DSA_Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
