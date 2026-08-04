@@ -20,6 +20,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0007-reverse-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/riyagobade/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
@@ -203,6 +204,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/riyagobade/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/riyagobade/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
@@ -314,4 +316,8 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/riyagobade/DSA_Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
