@@ -90,6 +90,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/riyagobade/DSA_Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
@@ -101,6 +102,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0342-power-of-four](https://github.com/riyagobade/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
@@ -129,6 +131,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/riyagobade/DSA_Leetcode/tree/master/3731-find-missing-elements) |
@@ -233,6 +236,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
