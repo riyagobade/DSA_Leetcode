@@ -83,6 +83,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0541-reverse-string-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/riyagobade/DSA_Leetcode/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
@@ -134,6 +135,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
