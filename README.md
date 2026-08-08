@@ -127,6 +127,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/riyagobade/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
@@ -171,6 +172,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/riyagobade/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
