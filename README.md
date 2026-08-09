@@ -85,6 +85,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0409-longest-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/riyagobade/DSA_Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/riyagobade/DSA_Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
