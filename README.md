@@ -32,6 +32,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0342-power-of-four](https://github.com/riyagobade/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/riyagobade/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/riyagobade/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -247,6 +248,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/riyagobade/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/riyagobade/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
