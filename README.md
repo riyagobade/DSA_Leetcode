@@ -146,6 +146,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/riyagobade/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -168,6 +169,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0922-sort-array-by-parity-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/riyagobade/DSA_Leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/riyagobade/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -204,6 +206,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/1816-truncate-sentence) |
@@ -236,6 +239,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0922-sort-array-by-parity-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/riyagobade/DSA_Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riyagobade/DSA_Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -252,6 +256,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0367-valid-perfect-square](https://github.com/riyagobade/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/riyagobade/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
