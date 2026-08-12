@@ -194,6 +194,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0219-contains-duplicate-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0376-wiggle-subsequence](https://github.com/riyagobade/DSA_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -337,6 +338,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
+| [0376-wiggle-subsequence](https://github.com/riyagobade/DSA_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -351,6 +353,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riyagobade/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0376-wiggle-subsequence](https://github.com/riyagobade/DSA_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 ## Memoization
