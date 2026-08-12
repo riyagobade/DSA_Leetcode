@@ -69,6 +69,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riyagobade/DSA_Leetcode/tree/master/0020-valid-parentheses) |
@@ -131,6 +132,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/riyagobade/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
@@ -381,6 +383,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Newton's Method
 |  |
