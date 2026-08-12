@@ -21,6 +21,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0013-roman-to-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riyagobade/DSA_Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
@@ -354,6 +355,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riyagobade/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0376-wiggle-subsequence](https://github.com/riyagobade/DSA_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
@@ -361,6 +363,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
