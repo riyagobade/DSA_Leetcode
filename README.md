@@ -124,6 +124,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0867-transpose-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,6 +175,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/riyagobade/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -215,6 +217,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1816-truncate-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/riyagobade/DSA_Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riyagobade/DSA_Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
