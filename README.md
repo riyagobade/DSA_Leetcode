@@ -22,6 +22,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riyagobade/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/0231-power-of-two) |
@@ -78,6 +79,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0058-length-of-last-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/riyagobade/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0344-reverse-string) |
