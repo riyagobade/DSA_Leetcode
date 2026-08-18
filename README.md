@@ -166,6 +166,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/riyagobade/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/riyagobade/DSA_Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -238,6 +239,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3033-modify-the-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/3033-modify-the-matrix) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3697-compute-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/riyagobade/DSA_Leetcode/tree/master/3731-find-missing-elements) |
