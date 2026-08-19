@@ -396,6 +396,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0197-rising-temperature](https://github.com/riyagobade/DSA_Leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/riyagobade/DSA_Leetcode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/riyagobade/DSA_Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/riyagobade/DSA_Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Sliding Window
 |  |
