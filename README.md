@@ -135,6 +135,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -237,6 +238,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riyagobade/DSA_Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3033-modify-the-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/3033-modify-the-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
