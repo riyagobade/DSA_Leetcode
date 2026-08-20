@@ -399,6 +399,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0511-game-play-analysis-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/riyagobade/DSA_Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/riyagobade/DSA_Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/riyagobade/DSA_Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/riyagobade/DSA_Leetcode/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/1148-article-views-i) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/riyagobade/DSA_Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
