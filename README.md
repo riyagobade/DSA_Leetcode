@@ -403,6 +403,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0596-classes-with-at-least-5-students](https://github.com/riyagobade/DSA_Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/riyagobade/DSA_Leetcode/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/riyagobade/DSA_Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/riyagobade/DSA_Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Sliding Window
 |  |
