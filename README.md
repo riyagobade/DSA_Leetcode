@@ -44,6 +44,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/riyagobade/DSA_Leetcode/tree/master/1185-day-of-the-week) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/riyagobade/DSA_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -65,6 +66,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/riyagobade/DSA_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -325,6 +327,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -460,4 +463,12 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/riyagobade/DSA_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
