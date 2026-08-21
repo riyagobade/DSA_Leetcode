@@ -45,6 +45,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1185-day-of-the-week](https://github.com/riyagobade/DSA_Leetcode/tree/master/1185-day-of-the-week) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/riyagobade/DSA_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/riyagobade/DSA_Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -65,6 +66,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/riyagobade/DSA_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
