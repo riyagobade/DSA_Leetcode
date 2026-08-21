@@ -50,6 +50,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2469-convert-the-temperature](https://github.com/riyagobade/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/riyagobade/DSA_Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2843-count-symmetric-integers](https://github.com/riyagobade/DSA_Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -329,6 +330,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
+| [2843-count-symmetric-integers](https://github.com/riyagobade/DSA_Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
