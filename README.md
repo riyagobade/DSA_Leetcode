@@ -34,6 +34,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0326-power-of-three](https://github.com/riyagobade/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/riyagobade/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/riyagobade/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/riyagobade/DSA_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/riyagobade/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/riyagobade/DSA_Leetcode/tree/master/0504-base-7) |
@@ -97,6 +98,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0345-reverse-vowels-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/riyagobade/DSA_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/riyagobade/DSA_Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -128,6 +130,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0287-find-the-duplicate-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/riyagobade/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/riyagobade/DSA_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/riyagobade/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
