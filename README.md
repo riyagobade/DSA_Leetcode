@@ -42,6 +42,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/riyagobade/DSA_Leetcode/tree/master/1185-day-of-the-week) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -109,6 +110,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0680-valid-palindrome-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/riyagobade/DSA_Leetcode/tree/master/0925-long-pressed-name) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
 | [1768-merge-strings-alternately](https://github.com/riyagobade/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -478,4 +480,12 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
