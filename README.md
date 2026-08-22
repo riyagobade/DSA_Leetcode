@@ -111,6 +111,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0680-valid-palindrome-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/riyagobade/DSA_Leetcode/tree/master/0925-long-pressed-name) |
+| [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
@@ -174,6 +175,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/riyagobade/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -238,6 +240,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0905-sort-array-by-parity](https://github.com/riyagobade/DSA_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
