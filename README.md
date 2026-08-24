@@ -57,6 +57,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2469-convert-the-temperature](https://github.com/riyagobade/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/riyagobade/DSA_Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/riyagobade/DSA_Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/riyagobade/DSA_Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
