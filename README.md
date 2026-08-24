@@ -42,6 +42,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0504-base-7](https://github.com/riyagobade/DSA_Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -234,6 +235,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0598-range-addition-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/riyagobade/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
