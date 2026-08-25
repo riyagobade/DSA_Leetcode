@@ -264,6 +264,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2164-sort-even-and-odd-indices-independently](https://github.com/riyagobade/DSA_Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riyagobade/DSA_Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/riyagobade/DSA_Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3033-modify-the-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/riyagobade/DSA_Leetcode/tree/master/3115-maximum-prime-difference) |
