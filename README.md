@@ -48,6 +48,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/riyagobade/DSA_Leetcode/tree/master/1185-day-of-the-week) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -159,6 +160,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0412-fizz-buzz](https://github.com/riyagobade/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0867-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
