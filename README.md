@@ -46,6 +46,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0628-maximum-product-of-three-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/riyagobade/DSA_Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/riyagobade/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -520,6 +521,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/riyagobade/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/riyagobade/DSA_Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Primality Test
 |  |
