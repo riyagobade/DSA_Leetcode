@@ -48,6 +48,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/riyagobade/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -81,6 +82,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0204-count-primes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/riyagobade/DSA_Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/riyagobade/DSA_Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -193,6 +195,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0496-next-greater-element-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/riyagobade/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -260,6 +263,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0883-projection-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/riyagobade/DSA_Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
@@ -335,6 +339,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/riyagobade/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -516,10 +521,12 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Geometry
 |  |
