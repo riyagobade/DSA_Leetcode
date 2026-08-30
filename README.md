@@ -278,6 +278,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/riyagobade/DSA_Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -415,6 +416,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0409-longest-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |
