@@ -51,6 +51,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0892-surface-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -270,6 +271,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
