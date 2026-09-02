@@ -56,6 +56,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1137-n-th-tribonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/riyagobade/DSA_Leetcode/tree/master/1185-day-of-the-week) |
 | [1486-xor-operation-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -440,11 +441,13 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0376-wiggle-subsequence](https://github.com/riyagobade/DSA_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
