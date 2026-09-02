@@ -53,6 +53,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/riyagobade/DSA_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/riyagobade/DSA_Leetcode/tree/master/1154-day-of-the-year) |
@@ -274,6 +275,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
+| [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -317,6 +319,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0905-sort-array-by-parity](https://github.com/riyagobade/DSA_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -361,6 +364,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0867-transpose-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3033-modify-the-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/3033-modify-the-matrix) |
@@ -545,6 +549,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0836-rectangle-overlap](https://github.com/riyagobade/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/riyagobade/DSA_Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/riyagobade/DSA_Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Primality Test
 |  |
