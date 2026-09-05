@@ -304,6 +304,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -376,6 +377,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |
