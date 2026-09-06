@@ -108,6 +108,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/riyagobade/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/riyagobade/DSA_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/riyagobade/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/riyagobade/DSA_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -443,6 +444,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/riyagobade/DSA_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riyagobade/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0376-wiggle-subsequence](https://github.com/riyagobade/DSA_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0509-fibonacci-number) |
