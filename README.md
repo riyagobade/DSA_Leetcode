@@ -146,6 +146,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/riyagobade/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
@@ -178,6 +179,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
