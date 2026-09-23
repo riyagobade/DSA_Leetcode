@@ -210,6 +210,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -288,6 +289,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1816-truncate-sentence](https://github.com/riyagobade/DSA_Leetcode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -355,6 +357,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0704-binary-search](https://github.com/riyagobade/DSA_Leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
@@ -383,6 +386,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -495,6 +499,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/riyagobade/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Newton's Method
 |  |
