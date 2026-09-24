@@ -78,6 +78,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3524-find-x-value-of-array-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/riyagobade/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/riyagobade/DSA_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riyagobade/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -307,6 +308,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/riyagobade/DSA_Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/riyagobade/DSA_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/riyagobade/DSA_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/riyagobade/DSA_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/riyagobade/DSA_Leetcode/tree/master/3731-find-missing-elements) |
