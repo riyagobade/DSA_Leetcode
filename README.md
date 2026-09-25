@@ -210,6 +210,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [0771-jewels-and-stones](https://github.com/riyagobade/DSA_Leetcode/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyagobade/DSA_Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/riyagobade/DSA_Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -287,6 +288,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1002-find-common-characters](https://github.com/riyagobade/DSA_Leetcode/tree/master/1002-find-common-characters) |
 | [1030-matrix-cells-in-distance-order](https://github.com/riyagobade/DSA_Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/riyagobade/DSA_Leetcode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/riyagobade/DSA_Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/riyagobade/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/riyagobade/DSA_Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
