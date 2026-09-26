@@ -218,6 +218,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2154-keep-multiplying-found-values-by-two](https://github.com/riyagobade/DSA_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/riyagobade/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/riyagobade/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/riyagobade/DSA_Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -248,6 +249,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1768-merge-strings-alternately](https://github.com/riyagobade/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/riyagobade/DSA_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyagobade/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -307,6 +309,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyagobade/DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/riyagobade/DSA_Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riyagobade/DSA_Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/riyagobade/DSA_Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3033-modify-the-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/3033-modify-the-matrix) |
@@ -374,6 +377,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riyagobade/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riyagobade/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/riyagobade/DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyagobade/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
