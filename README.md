@@ -254,6 +254,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/riyagobade/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/riyagobade/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
@@ -363,6 +364,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/riyagobade/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/riyagobade/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/riyagobade/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -495,6 +497,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/riyagobade/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/riyagobade/DSA_Leetcode/tree/master/0191-number-of-1-bits) |
