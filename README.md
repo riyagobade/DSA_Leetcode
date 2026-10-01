@@ -605,4 +605,8 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/riyagobade/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
