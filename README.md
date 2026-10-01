@@ -228,6 +228,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/riyagobade/DSA_Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyagobade/DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -256,6 +257,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyagobade/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/riyagobade/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/riyagobade/DSA_Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/riyagobade/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/riyagobade/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyagobade/DSA_Leetcode/tree/master/0055-jump-game) |
@@ -333,6 +335,7 @@ This repository contains my LeetCode solutions solved in **Java** using the **Le
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/riyagobade/DSA_Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/riyagobade/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyagobade/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/riyagobade/DSA_Leetcode/tree/master/0169-majority-element) |
